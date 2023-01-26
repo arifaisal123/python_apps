@@ -5,3 +5,5 @@ For Windows:
 3) Once the app has been opened, type the text you want to generate the QR Code for, and press Enter.
 4) The QR code image file will be saved in the same dist folder.
 5) The image can be used for scanning QR Code.
+
+# pyinstaller is used to compile the python project into an executable file
