@@ -7,3 +7,5 @@ On Windows:
 5) If the user does not want to continue, it can type N or No which will close the program.
 6) If there is any problem(microphone not configured, the system cannot hear the sound etc.), then
 the app will display the message that the voice cannot be recognized.
+
+# pyinstaller is used to compile the python project into an executable file
