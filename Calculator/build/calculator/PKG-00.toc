@@ -1,0 +1,51 @@
+('E:\\Computer Science\\My Projects\\Python '
+ 'Projects\\Calculator\\build\\calculator\\calculator.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0,
+  'SPLASH': 1},
+ [('PYZ-00.pyz',
+   'E:\\Computer Science\\My Projects\\Python '
+   'Projects\\Calculator\\build\\calculator\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'E:\\Computer Science\\My Projects\\Python '
+   'Projects\\Calculator\\build\\calculator\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'E:\\Computer Science\\My Projects\\Python '
+   'Projects\\Calculator\\build\\calculator\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'E:\\Computer Science\\My Projects\\Python '
+   'Projects\\Calculator\\build\\calculator\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'E:\\Computer Science\\My Projects\\Python '
+   'Projects\\Calculator\\build\\calculator\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'E:\\Computer Science\\My Projects\\Python '
+   'Projects\\Calculator\\build\\calculator\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\users\\asus\\anaconda3\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_subprocess',
+   'c:\\users\\asus\\anaconda3\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_subprocess.py',
+   'PYSOURCE'),
+  ('calculator',
+   'E:\\Computer Science\\My Projects\\Python '
+   'Projects\\Calculator\\calculator.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
